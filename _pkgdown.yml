@@ -1,13 +1,11 @@
 url: ~
 template:
   bootstrap: 5
-  bootswatch: flatly
   bslib:
     pkgdown-nav-height: 100px
     pkgdown-navbar-height: 20px
 navbar:
-  title: "Linkage"
-  type: slim
+  title: "linkage"
   left:
     - text: "Install"
       href: articles/Install.html
